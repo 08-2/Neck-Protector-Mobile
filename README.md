@@ -1,6 +1,4 @@
-![icon](https://github.com/user-attachments/assets/56eca510-ce1c-4a15-baaf-2ff0ac5e8491)
-
-# Neck Protector Mobile
+# Neck Protector Mobile <img src="https://github.com/user-attachments/assets/56eca510-ce1c-4a15-baaf-2ff0ac5e8491"
 
 **Purpose**  
 This app helps protect the user's neck health by sending notifications to prevent turtle neck.
