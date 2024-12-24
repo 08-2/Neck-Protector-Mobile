@@ -17,3 +17,5 @@ This app helps protect the user's neck health by sending notifications to preven
 - ⬤ 한국어
 - ⬤ Español
 - ⬤ 中文
+
+### [ Download ](https://github.com/08-2/Neck-Protector-Mobile/releases/tag/1.0)
